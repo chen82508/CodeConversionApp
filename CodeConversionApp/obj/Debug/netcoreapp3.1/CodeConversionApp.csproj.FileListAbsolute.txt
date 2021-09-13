@@ -1,0 +1,15 @@
+D:\GitHub\CodeConversionApp\CodeConversionApp\bin\Debug\netcoreapp3.1\CodeConversionApp.exe
+D:\GitHub\CodeConversionApp\CodeConversionApp\bin\Debug\netcoreapp3.1\CodeConversionApp.deps.json
+D:\GitHub\CodeConversionApp\CodeConversionApp\bin\Debug\netcoreapp3.1\CodeConversionApp.runtimeconfig.json
+D:\GitHub\CodeConversionApp\CodeConversionApp\bin\Debug\netcoreapp3.1\CodeConversionApp.runtimeconfig.dev.json
+D:\GitHub\CodeConversionApp\CodeConversionApp\bin\Debug\netcoreapp3.1\CodeConversionApp.dll
+D:\GitHub\CodeConversionApp\CodeConversionApp\bin\Debug\netcoreapp3.1\CodeConversionApp.pdb
+D:\GitHub\CodeConversionApp\CodeConversionApp\obj\Debug\netcoreapp3.1\CodeConversionApp.Form1.resources
+D:\GitHub\CodeConversionApp\CodeConversionApp\obj\Debug\netcoreapp3.1\CodeConversionApp.csproj.GenerateResource.cache
+D:\GitHub\CodeConversionApp\CodeConversionApp\obj\Debug\netcoreapp3.1\CodeConversionApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CodeConversionApp\CodeConversionApp\obj\Debug\netcoreapp3.1\CodeConversionApp.AssemblyInfoInputs.cache
+D:\GitHub\CodeConversionApp\CodeConversionApp\obj\Debug\netcoreapp3.1\CodeConversionApp.AssemblyInfo.cs
+D:\GitHub\CodeConversionApp\CodeConversionApp\obj\Debug\netcoreapp3.1\CodeConversionApp.csproj.CoreCompileInputs.cache
+D:\GitHub\CodeConversionApp\CodeConversionApp\obj\Debug\netcoreapp3.1\CodeConversionApp.dll
+D:\GitHub\CodeConversionApp\CodeConversionApp\obj\Debug\netcoreapp3.1\CodeConversionApp.pdb
+D:\GitHub\CodeConversionApp\CodeConversionApp\obj\Debug\netcoreapp3.1\CodeConversionApp.genruntimeconfig.cache
