@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub\\CodeConversionApp\\CodeConversionApp\\CodeConversionApp.csproj": {}
+    "C:\\Users\\ueaga\\Documents\\CodeConversionApp\\CodeConversionApp\\CodeConversionApp.csproj": {}
   },
   "projects": {
-    "D:\\GitHub\\CodeConversionApp\\CodeConversionApp\\CodeConversionApp.csproj": {
+    "C:\\Users\\ueaga\\Documents\\CodeConversionApp\\CodeConversionApp\\CodeConversionApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\CodeConversionApp\\CodeConversionApp\\CodeConversionApp.csproj",
+        "projectUniqueName": "C:\\Users\\ueaga\\Documents\\CodeConversionApp\\CodeConversionApp\\CodeConversionApp.csproj",
         "projectName": "CodeConversionApp",
-        "projectPath": "D:\\GitHub\\CodeConversionApp\\CodeConversionApp\\CodeConversionApp.csproj",
-        "packagesPath": "C:\\Users\\kaihua\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\CodeConversionApp\\CodeConversionApp\\obj\\",
+        "projectPath": "C:\\Users\\ueaga\\Documents\\CodeConversionApp\\CodeConversionApp\\CodeConversionApp.csproj",
+        "packagesPath": "C:\\Users\\ueaga\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ueaga\\Documents\\CodeConversionApp\\CodeConversionApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\kaihua\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ueaga\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -27,8 +27,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://pkgs.dev.azure.com/emagumail/NugetFeed/_packaging/Common/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -45,6 +44,12 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "System.Text.Encoding.CodePages": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -63,7 +68,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
